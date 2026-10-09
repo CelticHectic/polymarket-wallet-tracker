@@ -1,0 +1,43 @@
+# Privacy Policy — Polymarket Wallet Tracker
+
+**Last updated:** October 9, 2026
+
+Polymarket Wallet Tracker is a Chrome extension that monitors public trading activity from user-selected Polymarket wallets and provides notifications when configured trade conditions are met.
+
+## Information We Access
+
+The extension accesses public wallet addresses and publicly available trading activity from Polymarket's APIs to provide wallet monitoring and trade notifications.
+
+Wallet addresses selected by users, monitoring preferences, notification thresholds, and locally stored trade history are stored in the user's browser.
+
+## How Information Is Used
+
+Information is used exclusively to provide the extension's features, including wallet tracking, trade detection, notification delivery, and local activity history.
+
+## Data Sharing and Collection
+
+The extension does not sell personal information or use tracked wallet activity for advertising.
+
+The extension does not require Polymarket account credentials, private keys, seed phrases, or trading permissions.
+
+Wallet monitoring requests are sent to Polymarket's public API services. Those services may receive technical information associated with API requests, subject to their own privacy practices.
+
+The extension does not transmit locally stored watchlists or activity history to a developer-operated server unless a future version explicitly introduces such functionality and updates this policy accordingly.
+
+## Data Storage and Retention
+
+Wallet preferences and activity history are stored locally in Chrome. Users can remove tracked wallets or clear locally stored activity through the extension.
+
+Uninstalling the extension may remove its locally stored data.
+
+## Security
+
+The extension uses reasonable technical measures to limit access to stored information and requests only the permissions necessary for its functionality.
+
+## Changes to This Policy
+
+This policy may be updated when the extension's functionality or data practices change. The latest version will be published at the same URL.
+
+## Contact
+
+For privacy questions or requests, contact: [INSERT YOUR SUPPORT EMAIL]
